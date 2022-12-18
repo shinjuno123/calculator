@@ -1,6 +1,6 @@
 # 🎈 Very Simple Calculator for Tutorial of Express.js 🎈
 
-## Technique Stack
+## Technical Stack
 
 - HTML5
 - Node.js
